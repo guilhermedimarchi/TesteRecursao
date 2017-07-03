@@ -1,0 +1,5 @@
+C:\Users\Guilherme\Desktop\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.dll
+C:\Users\Guilherme\Desktop\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\bin\Debug\TesteRecursaoT1.pdb
+C:\Users\Guilherme\Desktop\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.dll
+C:\Users\Guilherme\Desktop\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\TesteRecursaoT1\obj\Debug\TesteRecursaoT1.pdb
